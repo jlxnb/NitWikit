@@ -9,7 +9,7 @@ sidebar_position: 5
 
 :::note
 
-本篇只包含`server.proprites`和`gamerule`的解释，要想完整的配置服务端，请不要只依赖本篇
+本篇只包含`server.proprites`和`游戏规则`的解释，要想完整的配置服务端，请不要只依赖本篇
 
 :::
 
@@ -188,7 +188,7 @@ allow-flight=true
 
 这一部分的配置需要使用 `/gamerule` 来完成，而非 `server.properties`
 
-[全部](https://minecraft.fandom.com/zh/wiki/%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99#%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99%E5%88%97%E8%A1%A8)
+点击查看[全部游戏规则](https://minecraft.fandom.com/zh/wiki/%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99#%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99%E5%88%97%E8%A1%A8)
 
 :::tip
 
