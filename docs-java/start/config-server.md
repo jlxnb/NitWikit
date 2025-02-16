@@ -123,7 +123,7 @@ spawn-protection=16
 
 这一配置的保护**并不能**防御苦力怕、TNT等造成的破坏。
 
-如有保护出生点的需求，可以考虑使用插件[WorldGuard](/process/plugin/World Management/WorldGuard.md)
+如有保护出生点的需求，可以考虑使用插件 [WorldGuard](process/plugin/WorldManagement/WorldGuard.md)
 
 :::
 
