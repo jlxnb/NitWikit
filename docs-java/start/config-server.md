@@ -133,10 +133,10 @@ gamemode=survival
 
 支持以下模式
 
-- 生存 - survival 或 0
-- 创造 - creative 或 1
-- 冒险 - adventure 或 2
-- 旁观 - spectator 或 3
+- survival(0) - 生存
+- creative(1) - 创造
+- adventure(2) - 冒险
+- spectator(3) - 旁观
 
 ### 强制游戏模式
 
