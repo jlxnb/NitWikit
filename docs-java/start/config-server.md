@@ -182,7 +182,7 @@ allow-flight=true
 
 ### 服务器端口
 
-请前往 [连接服务器](连接服务器.md) 章节查看
+请前往 [连接服务器](connect-to-server.md) 章节查看
 
 ## 游戏规则
 
