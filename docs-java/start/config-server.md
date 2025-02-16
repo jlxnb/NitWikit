@@ -117,6 +117,16 @@ spawn-protection=16
 
 设置为0可以禁用
 
+:::warning
+
+强烈**建议禁用**这一配置，无论你是否需要出生点保护。
+
+这一配置的保护**并不能**防御苦力怕、TNT等造成的破坏。
+
+如有保护出生点的需求，可以考虑使用插件[WorldGuard](/process/plugin/World Management/WorldGuard.md)
+
+:::
+
 ### 是否允许玩家前往下界/是否生成下界世界
 
 ```properties
